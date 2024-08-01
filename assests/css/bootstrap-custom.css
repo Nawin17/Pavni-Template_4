@@ -38,7 +38,7 @@ body{
 
 body a:hover{
   text-decoration: none;
-  color: #0bee62;
+  color: #0E4D92;
 }
 body li{
   list-style: none;
@@ -147,7 +147,7 @@ header .mobile-navbar {
     position: relative;
 }
 .navbar-expand-md .pavni-logo h2{ 
-    color: #0f0b0b;
+    color: #f8f8f8;
 }
 .navbar-expand-md .navbar-nav .nav-link {
     font-size: 14px;
@@ -649,7 +649,7 @@ border:1px solid #fff;
 }
 .why-single h5 {
     font-size: 18px;
-    color:#006400;
+    color:#0E4D92;
 }
 .why {
     position: relative;
@@ -685,7 +685,7 @@ border:1px solid #fff;
 }
 .why {
     padding: 70px 0px 50px;
-    color:#115025;
+    color:#000000;
 }
 .why h2 {margin-bottom: 25px;}
 .social-box a i {
@@ -904,7 +904,7 @@ border-top-right-radius:20px;
     min-height: 48px;
 }
 .news-bg h3 a{
-  color: #0f552c;
+  color: #0E4D92;
 }
 .news-bg h6{
   color:#B4AFAF;
